@@ -2,7 +2,7 @@
 
 Hi there, welcome to my GitHub Repository. In this repository I will cover my research in the SSL 4000 G Channel strip. 
 
-I started thinking about this research on a cold spring morning with a cup of coffee in my hand thinking,... "Well how accurate are the SSL 4000 G channel plugins vs the real deal? What is the difference between every plugin in CPU Usage? Is there a build up in usage if you use like 4 or 5 or are they using the same memory and CPU usage as a single one? Is it even possible to monitor the latency difference between using a plugin or not in a DAW and is this DAW related or plugin related? How well does the plugin emulate the harmonic distortion if a pre-amp is clipping? How well does it translate the Q bandwidth and the amount of gain on each channel?"
+I started thinking about this research on a cold spring morning with a cup of coffee in my hand asking myself,... "Well how accurate are the SSL 4000 G channel plugins vs the real deal? What is the difference between every plugin in CPU Usage? Is there a build up in usage if you use like 4 or 5 or are they using the same memory and CPU usage as a single one? Is it even possible to monitor the latency difference between using a plugin or not in a DAW and is this DAW related or plugin related? How well does the plugin emulate the harmonic distortion if a pre-amp is clipping? How well does it translate the Q bandwidth and the amount of gain on each channel?"
 
 
 
